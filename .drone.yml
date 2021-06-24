@@ -12,6 +12,6 @@ steps:
   - flake8
   
 trigger:
-  event:
-    include:
-    - push
+  repo:
+    exclude:
+    - Drone-dev-team-org/drone-docker-test
