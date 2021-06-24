@@ -15,3 +15,4 @@ trigger:
   repo:
     include:
     - Drone-dev-team-org/drone-docker-test
+    
